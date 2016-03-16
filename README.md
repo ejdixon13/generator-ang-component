@@ -1,10 +1,11 @@
 # generator-ang-component
-Yeoman generator to meant to quickstart publishable angular modules that includes browsersync and sass support built in.
+Yeoman generator meant to quickstart publishable angular modules that includes browsersync and sass support built in.
 
 # Usage
-From generator-ang-component directory use command:
+
+From generator-ang-component directory use npm command:
 ```
 npm link
 ```
 
-Now you many use `yo ang-component` to scaffold a publishbable angular module.
+Now you many use `yo ang-component` to scaffold a publishable angular module.
